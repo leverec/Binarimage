@@ -9,7 +9,7 @@ A tools that convert a text into a binary image, like a QR code btw.
 ## How To Use
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/Zikri-codes/Binarimage.git
+git clone https://github.com/leverec/Binarimage.git
 cd Binarimage
 ```
 ### 2. Run Main Script
